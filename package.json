@@ -1,0 +1,21 @@
+{
+  "name": "ionic2-push-notification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ionic2",
+    "push",
+    "notification"
+  ],
+  "author": "The Amazing Developer-Man",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "node-gcm": "^0.14.5"
+  }
+}
